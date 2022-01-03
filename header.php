@@ -9,7 +9,12 @@
 </head>
 <body>
     <div class="headerDiv">
-        <div class="menuItems">
+    <ul>
+        <li><a  href="login.php">Login</a></li>
+        <li><a href="signup.php">Signup</a></li>
+        <li><a href="dashboard.php">Dashboard</a></li>
+    </ul>
+        <!-- <div class="menuItems">
             <a class = "active" href="login.php">Login</a>
         </div>
         <div class="menuItems">
@@ -17,5 +22,5 @@
         </div>
         <div class="menuItems">
             <a href="dashboard.php">Dashboard</a>
-        </div>  
+        </div>   -->
     </div>
